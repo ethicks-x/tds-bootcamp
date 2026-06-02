@@ -18,3 +18,12 @@ I already knew ...
 --- After Day-2 ---
 I learned these things as well, apart from the checklist ...
 ---
+
+--- Feedback (Suggestions for the TDS Team) ---
+This is my feedback ...
+---
+
+---
+---
+
+
